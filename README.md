@@ -1,5 +1,6 @@
 [![Build Status](https://dev.azure.com/apim-devops/ARM-template-generator/_apis/build/status/Master%20-%20Quality%20Gate?branchName=master)](https://dev.azure.com/apim-devops/ARM-template-generator/_build/latest?definitionId=1?branchName=master)
 
+sqlpackage.exe /TargetDatabaseName:testing /TargetServerName:"." /Action:Publish /SourceFile:"C:\dacpac\testing.dacpac" /p:DropObjectsNotInSource=true
 # Azure API Management DevOps Resource Kit
 
 APIs have become mundane. They have become the de facto standard for connecting apps, data, and services. In the larger picture, APIs are driving digital transformation in organizations.
