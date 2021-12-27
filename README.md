@@ -1,4 +1,5 @@
 https://stackoverflow.com/questions/46017245/how-to-handle-unauthorized-requestsstatus-with-401-or-403-with-new-httpclient
+https://pretagteam.com/question/how-can-i-handle-a-401-unauthorized-response-differently-from-other-errors-in-an-angular-8-service-using-rxjs
 [![Build Status](https://dev.azure.com/apim-devops/ARM-template-generator/_apis/build/status/Master%20-%20Quality%20Gate?branchName=master)](https://dev.azure.com/apim-devops/ARM-template-generator/_build/latest?definitionId=1?branchName=master)
 
 sqlpackage.exe /TargetDatabaseName:testing /TargetServerName:"." /Action:Publish /SourceFile:"C:\dacpac\testing.dacpac" /p:DropObjectsNotInSource=true
